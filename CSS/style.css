@@ -7,6 +7,31 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<!-- Header Section -->
+<header>
+    <div class="container">
+        <div class="logo">
+            <h1>GenZ SneakerHead</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+<!-- Hero Section -->
+<section id="home" class="hero">
+    <div class="container">
+        <h2>Step Up Your Game with GenZ SneakerHead</h2>
+        <p>Discover the latest in premium basketball shoes designed for performance and style.</p>
+        <a href="#products" class="btn">Shop Now</a>
+    </div>
+</section>
+<!-- Products Section -->
 
 
 </body>
